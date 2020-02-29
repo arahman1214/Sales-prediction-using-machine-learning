@@ -25,4 +25,4 @@ Dept: One of 1–99 that shows the department.</br>
 IsHoliday: a Boolean value representing a holiday week or not.
 <br/>
 
-**Total we have 421570 values for training and 115064 for testing**
+**Total we have 421570 values for training and 115064 for testing in train.csv and test.csv files repsctively**
