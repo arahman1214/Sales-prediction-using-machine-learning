@@ -8,21 +8,21 @@ In addition, Walmart runs several promotional markdown events throughout the yea
                                             
 **DataSet Overview**
 This data set is available on the kaggle website. These data sets contained information about the stores, departments, temperature, unemployment, CPI, isHoliday, and MarkDowns.</br>
-**Stores** :
-Store: The store number. Range from 1–45.
-Type: Three types of stores ‘A’, ‘B’ or ‘C’.
+**Stores** :</br>
+Store: The store number. Range from 1–45.</br>
+Type: Three types of stores ‘A’, ‘B’ or ‘C’.</br>
 Size: Sets the size of a Store would be calculated by the no. of products available in the particular store ranging from 34,000 to 210,000.</br>
-**Features:**
-Temperature: Temperature of the region during that week.
-Fuel_Price: Fuel Price in that region during that week.
-MarkDown1:5 : Represents the Type of markdown and what quantity was available during that week.
-CPI: Consumer Price Index during that week.
+**Features:**</br>
+Temperature: Temperature of the region during that week.</br>
+Fuel_Price: Fuel Price in that region during that week.</br>
+MarkDown1:5 : Represents the Type of markdown and what quantity was available during that week.</br>
+CPI: Consumer Price Index during that week.</br>
 Unemployment: The unemployment rate during that week in the region of the store.</br>
 **Sales:**
-Date: The date of the week where this observation was taken.
-Weekly_Sales: The sales recorded during that Week.
-Dept: One of 1–99 that shows the department.
+Date: The date of the week where this observation was taken.</br>
+Weekly_Sales: The sales recorded during that Week.</br>
+Dept: One of 1–99 that shows the department.</br>
 IsHoliday: a Boolean value representing a holiday week or not.
 <br/>
 
-**Total we have 421570 values for training and 115064 for testing. **
+**Total we have 421570 values for training and 115064 for testing**
