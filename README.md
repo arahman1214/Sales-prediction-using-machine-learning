@@ -48,3 +48,4 @@ Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13</br>
 
 
 **Total we have 421570 values for training and 115064 for testing in train.csv and test.csv files repsctively**
+**Our aim is to predict 6 months sales of walmart**
